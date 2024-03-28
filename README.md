@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satwik-dubey&label=Profile%20views&color=0e75b6&style=flat" alt="satwik-dubey" /> </p>
 
-- 🌱 I’m currently learning **HTML**
+- 🌱 I’m currently learning **DSA**
 
 - 📫 How to reach me **dubeysatwik0@gmail.com**
 
