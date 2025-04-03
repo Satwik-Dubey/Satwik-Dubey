@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satwik Dubey</h1>
-<h3 align="center">First Year CSE student passionate about learning Data Structures & Algorithms & Web Development.</h3>
+<h3 align="center">CSE student passionate about learning Data Structures & Algorithms & Web Development.</h3>
 <img align="right" width="400" src="https://i.redd.it/n8agw6z2smyb1.gif">
 
 
