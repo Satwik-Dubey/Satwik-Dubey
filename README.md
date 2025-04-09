@@ -19,4 +19,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=satwik-dubey&show_icons=true&locale=en&layout=compact" alt="satwik-dubey" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satwik-dubey&" alt="satwik-dubey" /></p>
+
